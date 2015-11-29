@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: b40464c221c5606409ccf8ef29b737e8
+timeCreated: 1448801978
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TestCharacter_0
+    21300002: TestCharacter_1
+    21300004: TestCharacter_2
+    21300006: TestCharacter_3
+    21300008: TestCharacter_4
+    21300010: TestCharacter_5
+    21300012: TestCharacter_6
+    21300014: TestCharacter_7
+    21300016: TestCharacter_8
+    21300018: TestCharacter_9
+    21300020: TestCharacter_10
+    21300022: TestCharacter_11
+    21300024: TestCharacter_12
+    21300026: TestCharacter_13
+    21300028: TestCharacter_14
+    21300030: TestCharacter_15
+    21300032: TestCharacter_16
+    21300034: TestCharacter_17
+    21300036: TestCharacter_18
+    21300038: TestCharacter_19
+    21300040: TestCharacter_20
+    21300042: TestCharacter_21
+    21300044: TestCharacter_22
+    21300046: TestCharacter_23
+    21300048: TestCharacter_24
+    21300050: TestCharacter_25
+    21300052: TestCharacter_26
+    21300054: TestCharacter_27
+    21300056: TestCharacter_28
+    21300058: TestCharacter_29
+    21300060: TestCharacter_30
+    21300062: TestCharacter_31
+    21300064: TestCharacter_32
+    21300066: TestCharacter_33
+    21300068: TestCharacter_34
+    21300070: TestCharacter_35
+    21300072: TestCharacter_36
+    21300074: TestCharacter_37
+    21300076: TestCharacter_38
+    21300078: TestCharacter_39
+    21300080: TestCharacter_40
+    21300082: TestCharacter_41
+    21300084: TestCharacter_42
+    21300086: TestCharacter_43
+    21300088: TestCharacter_44
+    21300090: TestCharacter_45
+    21300092: TestCharacter_46
+    21300094: TestCharacter_47
+    21300096: TestCharacter_48
+    21300098: TestCharacter_49
+    21300100: TestCharacter_50
+    21300102: TestCharacter_51
+    21300104: TestCharacter_52
+    21300106: TestCharacter_53
+    21300108: TestCharacter_54
+    21300110: TestCharacter_55
+    21300112: TestCharacter_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TestCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1054
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1056
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1056
+        width: 92
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1055
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1054
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1054
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1054
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1415
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1416
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1419
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1419
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1419
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1418
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1214
+        width: 74
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1218
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1210
+        width: 107
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1217
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1060
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 868
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 874
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 878
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_21
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 879
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 882
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_23
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 907
+        width: 192
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 662
+        width: 108
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 661
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 666
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 660
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 669
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_29
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 670
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 661
+        width: 70
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 706
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_32
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 662
+        width: 105
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 450
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 118
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 445
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 437
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_38
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 422
+        width: 128
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 436
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_40
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 404
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_41
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 450
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 230
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 231
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 232
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_45
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 231
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_46
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 231
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_47
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 231
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_48
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 231
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_54
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 45
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_55
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 46
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TestCharacter_56
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 46
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
